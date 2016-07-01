@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/Common/qiantai.bmp</file>
+        <file>Images/Common/background.bmp</file>
+        <file>Images/Common/chaxun.bmp</file>
+        <file>Images/Common/juece.bmp</file>
+        <file>Images/Common/yuding.bmp</file>
+        <file>Images/Common/baobiao.bmp</file>
+        <file>Images/Common/jiaoban.bmp</file>
+        <file>Images/Common/kehu.bmp</file>
+        <file>Images/Common/yeshen.bmp</file>
+        <file>Images/Common/1.png</file>
+        <file>Images/Common/clientin.png</file>
+        <file>Images/Common/roomshow.png</file>
+        <file>Images/Common/check_out.png</file>
+        <file>Images/Common/manage.png</file>
+        <file>Images/Common/LOADING.png</file>
+        <file>Images/Common/load.png</file>
+        <file>Images/Common/name.png</file>
+        <file>Images/Common/password.png</file>
+        <file>Images/Common/user.png</file>
+        <file>Images/Common/register.png</file>
+        <file>Images/Common/inqury.png</file>
+        <file>Images/Common/inquryclient.png</file>
+        <file>Images/Common/LOGO.png</file>
+        <file>Images/Common/statistics.png</file>
+        <file>Images/Common/zhinengshibie.png</file>
+        <file>Images/Common/yuyue.png</file>
+    </qresource>
+</RCC>
